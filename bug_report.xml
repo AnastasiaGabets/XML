@@ -1,1 +1,10 @@
-
+<Bug-reporting/TVmag.by>
+  <PC>open the website on the page:https://tvmag.by/signup/</PC>
+  <STR>Scroll the page up</STR>
+  <ER>The basket icon is displayed on the top right</ER>
+  <AR>2 basket icons are displayed: top right and bottom right. When scrolling down the page, the trash icon is 1
+  </AR>
+  <Environment>OS Windows 10 Pro Browser Opera Version 80.0.4170.63</Environment>
+  <Ptiority>Low</Priority>
+  <Severity>Trivial</Severity>
+  </Bug-reporting/TVmag.by>
