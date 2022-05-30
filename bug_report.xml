@@ -1,4 +1,5 @@
 <Bug-reporting/TVmag.by>
+  <title>Registration, displaying two basket icons (top and bottom) when scrolling up</title>
   <PC>open the website on the page:https://tvmag.by/signup/</PC>
   <STR>Scroll the page up</STR>
   <ER>The basket icon is displayed on the top right</ER>
